@@ -2,7 +2,7 @@
 title: DataDog # your site title
 author: Juan Carlos González # You :P
 description: > # Meta description of Homepage
-  Blog personal, con información acerca de temas como ciencia de datos, desarrollo, etc.
+  Personal blog, with information about topics such as data science, algorithm analysis, development, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datadogmx.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Blog personal, con información acerca de temas como ciencia de datos, analisis de algoritmos, desarrollo, etc.
+  Personal blog, with information about topics such as data science, algorithm analysis, development, etc.
 
 
 hero_img: posts/ocean_lg.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
